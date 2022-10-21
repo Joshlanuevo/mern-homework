@@ -1,1 +1,1 @@
-# ivan-mern-homework
+mern-homework
